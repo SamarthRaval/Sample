@@ -7,7 +7,7 @@ public class Practise {
         Tree(int val)
         {
             this.val = val;
-            System.out.println("sam");
+            System.out.println("sam raval");
         }
     }
 
